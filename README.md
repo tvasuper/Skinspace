@@ -13,4 +13,4 @@ Skinspace의 모든 파일을 [여기](https://www.dropbox.com/sh/thzj2nznuf4zp8
 ## 2. Rhythm Craft 2D
 각별님이 과거에 만드셨던 리듬 크래프트를 스킨화했습니다.  
 mania모드 4키, 8키만 구현되어있습니다.  
-[다운로드하기](https://www.dropbox.com/s/o5swbnfv3nghmei/Rhythm%20Craft%202D.osk?dl=0)
+[다운로드하기](https://github.com/tvasuper/Skinspace/raw/main/files/Rhythm%20Craft%202D.osk)
