@@ -8,7 +8,7 @@ Skinspace의 모든 파일을 [여기](https://www.dropbox.com/sh/thzj2nznuf4zp8
 ## 1. A Dance of Fire and Ice Skin
 스팀에 출시된 게임 A Dance of Fire and Ice를 스킨화 했습니다.  
 ※사운드 작업을 대부분 하지 않았습니다.  
-[다운로드하기](https://www.dropbox.com/s/vivjtfpijn1msp6/A%20Dance%20of%20Fire%20and%20Ice%20Skin.osk?dl=0)  
+[다운로드하기](https://github.com/tvasuper/Skinspace/raw/main/files/A%20Dance%20of%20Fire%20and%20Ice%20Skin.osk)  
 
 ## 2. Rhythm Craft 2D
 각별님이 과거에 만드셨던 리듬 크래프트를 스킨화했습니다.  
